@@ -9,3 +9,7 @@ git remote set-url origin
 git cone <url>
 
 this is update
+
+git branch
+git branch dev
+git switch
