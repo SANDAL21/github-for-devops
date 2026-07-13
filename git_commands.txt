@@ -13,3 +13,4 @@ this is update
 git branch
 git branch dev
 git switch
+git log
