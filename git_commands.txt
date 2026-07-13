@@ -3,4 +3,7 @@ git status
 git add <file name>
 git commit -m <message>
 git restore <file name>
-print ("hello)
+git push origin master
+git add origin <url>
+git remote set-url origin
+git cone <url>
