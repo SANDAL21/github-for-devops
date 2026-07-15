@@ -3,4 +3,14 @@ git status
 git add <file name>
 git commit -m <message>
 git restore <file name>
-print ("hello)
+print ("hello) 
+git cone <url>
+
+this is update
+
+git branch
+git branch dev
+git switch
+git log
+
+flake8 #tool to test python code quality
