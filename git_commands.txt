@@ -12,3 +12,5 @@ git branch
 git branch dev
 git switch
 git log
+
+flake8 # tool to test python code quality
